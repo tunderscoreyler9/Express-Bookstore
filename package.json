@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.16.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "jsonschema": "^1.2.4",
     "locus": "^2.0.1",
     "pg": "^8.3.3",
